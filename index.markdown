@@ -10,7 +10,9 @@ layout: home
 
 ### 1. Create a sewing pattern
 
+Following is a link to create a custom sewing pattern for pajamas:
 
+[Create custom pajamas pattern](https://5ef34811b1160d7e65cba367--frosty-gates-a0f6b5.netlify.app/)
 
 ### 2. Order custom fabric
 
@@ -18,10 +20,12 @@ You can make the pattern using any fabric you'd like, but in the spirit of OHBM 
 
 ![OHBM 2020 logo](/images/hbm_bnr_2020conf.jpg)
 
-We'd recommend ordering 2.5 to 3 meters (depending on size) of cotton poplin from the following link. Any additional fabric would be well suited for making a few masks for the rare occasion you need to leave the house, but don't want to leave the spirit of the conference behind.
+We'd recommend ordering 2.5 to 3 meters (depending on size) of **cotton poplin** from the link below. Any additional fabric would be well suited for making a few masks on the rare occasion you need to leave the house, but don't want to leave the spirit of the conference behind.
 
 [Link to spoonflower fabric](https://www.spoonflower.com/designs/10209454-ohbm-2020-plaid-by-margulies)
 
 ![OHBM 2020 plaid pattern](/images/ohbm2020plaid1.png)
 
 ### 3. Make the pajamas
+
+At this point you can either fire up the sewing machine or find a local tailor to finish the job. 
