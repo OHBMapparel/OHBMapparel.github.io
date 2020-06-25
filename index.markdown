@@ -2,17 +2,17 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+title: "Pajamas"
 layout: home
-title: Pajamas
 ---
 
-# Instructions for making your very own OHBM 2020 pajamas
+## Instructions for making your very own OHBM 2020 pajamas
 
-1. Create a sewing pattern
+### 1. Create a sewing pattern
 
 
 
-2. Order custom fabric
+### 2. Order custom fabric
 
 You can make the pattern using any fabric you'd like, but in the spirit of OHBM 2020, we've created a custom plaid design based on the color themes of the conference logo:
 
@@ -24,4 +24,4 @@ We'd recommend ordering 2.5 to 3 meters (depending on size) of cotton poplin fro
 
 ![OHBM 2020 plaid pattern](/images/ohbm2020plaid1.png)
 
-3. Make the pajamas
+### 3. Make the pajamas
