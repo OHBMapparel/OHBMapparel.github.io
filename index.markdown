@@ -4,3 +4,10 @@
 
 layout: home
 ---
+Instructions for making your very own OHBM 2020 pajamas
+
+1.  Create a sewing pattern
+
+2.  Order custom fabric
+
+3.  Make the pajamas
