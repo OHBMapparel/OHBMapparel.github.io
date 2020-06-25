@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Pajamas
 ---
 
 # Instructions for making your very own OHBM 2020 pajamas
