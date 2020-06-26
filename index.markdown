@@ -20,7 +20,7 @@ You can make the pattern using any fabric you'd like, but in the spirit of OHBM 
 
 ![OHBM 2020 logo](/images/hbm_bnr_2020conf.jpg)
 
-We'd recommend ordering 2.5 to 3 meters of **cotton poplin** at the *largest width* from the link below. Any additional fabric would be well suited for making a few masks on the rare occasion you need to leave the house, but don't want to leave the spirit of the conference behind.
+We'd recommend ordering 3 to 4 meters (depending on pattern size) of **cotton poplin** at the **largest width** from the link below. Any additional fabric would be well suited for making a few masks on the rare occasion you need to leave the house, but don't want to leave the spirit of the conference behind.
 
 [Link to spoonflower fabric](https://www.spoonflower.com/en/fabric/10209454-ohbm-2020-plaid-by-ohbmapparel?fabric=cotton_poplin_brava){:target="\_blank"}
 
