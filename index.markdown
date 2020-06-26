@@ -14,6 +14,8 @@ Following is a link we put together to create a custom sewing pattern for pajama
 
 [Create custom pajamas pattern](https://5ef5db741fd1b58ac19f5ed4--frosty-gates-a0f6b5.netlify.app){:target="\_blank"}
 
+![pattern screeshot](/images/pattern_screenshot.png)
+
 ### 2. Order custom fabric
 
 You can make the pattern using any fabric you'd like, but in the spirit of OHBM 2020, we've created a custom plaid design based on the color themes of the conference logo:
