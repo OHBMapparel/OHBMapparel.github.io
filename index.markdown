@@ -12,7 +12,7 @@ layout: home
 
 Following is a link we put together to create a custom sewing pattern for pajamas:
 
-[Create custom pajamas pattern](https://5ef5db741fd1b58ac19f5ed4--frosty-gates-a0f6b5.netlify.app){:target="\_blank"}
+[Create custom pajamas pattern](https://frosty-gates-a0f6b5.netlify.app){:target="\_blank"}
 
 ![pattern screeshot](/images/pattern_screenshot.png)
 
