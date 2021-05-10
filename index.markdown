@@ -20,7 +20,7 @@ Following is a link we put together to create a custom sewing pattern for pajama
 
 You can make the pattern using any fabric you'd like, but in the spirit of OHBM 2020, we've created a custom plaid design based on the color themes of the conference logo:
 
-![OHBM 2020 logo](/images/hbm_bnr_2020conf.jpg)
+![OHBM 2020 logo](/images/header_4041.jpg)
 
 We'd recommend ordering 3 to 4 meters (depending on pattern size) of **cotton poplin** at the **largest width** from the link below. Any additional fabric would be well suited for making a few masks on the rare occasion you need to leave the house, but don't want to leave the spirit of the conference behind.
 
